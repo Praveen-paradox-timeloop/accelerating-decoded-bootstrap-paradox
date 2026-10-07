@@ -1,3 +1,9 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23208264.svg)](https://doi.org/10.5281/zenodo.23208264)
+
+**DOI: 10.5281/zenodo.23208264 | Published on Zenodo (CERN) - Oct 7, 2026**
+**Permanent Link: https://doi.org/10.5281/zenodo.23208264**
+
+---
 # The Accelerating Decoded Bootstrap Paradox
 A New Variation of Time Travel Causal Loops
 
