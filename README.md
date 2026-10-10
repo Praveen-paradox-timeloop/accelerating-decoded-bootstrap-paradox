@@ -1,9 +1,10 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23208264.svg)](https://doi.org/10.5281/zenodo.23208264)
+# Accelerating Decoded Bootstrap Paradox — V2
 
-**DOI: 10.5281/zenodo.23208264 | Published on Zenodo (CERN) - Oct 7, 2026**
-**Permanent Link: https://doi.org/10.5281/zenodo.23208264**
+[![DOI V2](https://zenodo.org/badge/DOI/10.5281/zenodo.23273689.svg)](https://doi.org/10.5281/zenodo.23273689)
+[![DOI V1](https://zenodo.org/badge/DOI/10.5281/zenodo.23208264.svg)](https://doi.org/10.5281/zenodo.23208264)
+**V2 - Single Block, Bounded Age - Fix for Infinite Age & Supertask**
 
----
+Concept DOI (all versions): https://doi.org/10.5281/zenodo.23273688
 # Decoded Bootstrap Paradox V2 — Single Block, Bounded Age
 
 A New Variation of Time Travel Causal Loops - V2 fixes infinite-age failure.
