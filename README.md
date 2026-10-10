@@ -4,26 +4,38 @@
 **Permanent Link: https://doi.org/10.5281/zenodo.23208264**
 
 ---
-# The Accelerating Decoded Bootstrap Paradox
-A New Variation of Time Travel Causal Loops
+# Decoded Bootstrap Paradox V2 — Single Block, Bounded Age
 
-**Author:** Praveen L. | Independent Researcher, Vellore, India
-**Date:** October 7, 2026
-**License:** CC BY 4.0
+A New Variation of Time Travel Causal Loops - V2 fixes infinite-age failure.
 
-### Abstract
-Classic bootstrap paradox creates infinite-age objects. This paper proposes a new solution: Hint-based decoded transfer + Physical Renewal + Accelerating timeline (10y → 5y → 2.5y).
+Author: Praveen L. | Independent Researcher, Vellore, India | Date: October 2026
+License: CC BY 4.0 | DOI: 10.5281/zenodo.23208264
 
-### The 3 Rules of Decoded Bootstrap
-1. **Physical Renewal:** Buy NEW watch each loop
-2. **Hint-Based Transfer:** Future gives hints, past must decode and engineer
-3. **Mutual Knowledge:** Past knows to work hard or loop collapses
+## Abstract
+Classic same-watch bootstrap creates infinite proper age in finite interval (Thomson lamp supertask). V2 proposes: Information loops, physical tokens are fresh with finite worldline (0-10yr each). Single unchanging B-theory block. Conceptual proposal.
 
-### Full Paper
-📄 **[Download PDF](./The%20Accelerating%20Decoded%20Bootstrap%20Paradox.pdf)**
+## The 3 Rules of V2
 
-### How to Cite
-L, Praveen. (2026). The Accelerating Decoded Bootstrap Paradox. GitHub. https://github.com/Praveen-paradox-timeloop/accelerating-decoded-bootstrap-paradox
+1. Rule 0 — Anchor: First build normally without time travel. Defined beginning/end. Stops origin problem.
+2. Rule 1 — Fresh Tokens: Only info loops, matter does not. One design, many tokens. New entropy budget per token. Rejects Ship-of-Theseus identity (thanks u/SjennyBalaam)
+3. Rule 2 — Bounded Age: Proper age never infinite. Only 1 watch at a time participates in loop. No Thomson's lamp limit (thanks u/ManifoldMold)
 
-### Declaration
-Original formulation by Praveen L. as of Oct 7, 2026. This is a thought experiment.
+Result: Single timeline + info-only + fresh copy per gap. No branching trees, no multiverse.
+
+## Full Paper V2
+📄 [Download V2 PDF](./Decoded_Bootstrap_Paradox_V2.pdf)
+
+## V1 -> V2 Changes
+Removed: Branching-tree language, Accelerating timeline wording
+Added: Rule 0 Anchor
+Clarified: Proper time vs wear, bounded worldlines
+
+## Discussion
+r/timetravel — 5.6K views — "How to fix the Bootstrap Paradox's infinite-age problem?"
+
+## How to Cite
+L, Praveen. (2026). Decoded Bootstrap Paradox V2 — Single Block, Bounded Age. GitHub.
+https://github.com/Praveen-paradox-timeloop/accelerating-decoded-bootstrap-paradox
+
+## Declaration
+Original formulation by Praveen L. as of Oct 2026. Thought experiment.
